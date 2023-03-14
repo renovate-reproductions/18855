@@ -1,0 +1,7 @@
+{
+  "name": "repros",
+  "packageManager": "yarn@3.4.1",
+  "dependencies": {
+    "msw": "1.0.1"
+  }
+}
